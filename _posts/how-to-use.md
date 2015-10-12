@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "How to use"
-date: 2015-08-03 03:32:44
 image: '/assets/img/'
 description: 'First steps to use this template'
 tags:
