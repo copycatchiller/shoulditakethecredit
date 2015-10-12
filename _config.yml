@@ -1,0 +1,42 @@
+# Site settings
+description: Software Engineer and Computer Science student at Georgia Tech
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://danielms.com" # the base hostname & protocol for your site
+
+# User settings
+username: Daniel Marcos S.
+user_description: Software Engineer and Computer Science student at Georgia Tech
+user_title: Software Engineer
+email: danielmarcos@gatech.edu
+twitter_username: danielms215
+github_username:  danielms215
+gplus_username:  danielms215
+# disqus_username: lorem_ipsum
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Series
+    url: /series
+  - title: Tags
+    url: /tags
+  - title: About Me
+    url: /about
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
