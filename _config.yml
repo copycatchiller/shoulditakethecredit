@@ -34,8 +34,8 @@ links:
   - title: About Me
     url: /about
   - title: Resume
-    url: https://www.dropbox.com/s/bjr9f8n8r6r00vo/Resume%20DMS.pdf?dl=1
-    external: true
+    url: /resume.pdf
+
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
