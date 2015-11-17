@@ -1,30 +1,5 @@
+# General Jekyll Config
 highlighter: pygments
-markdown: rdiscount
-rdiscount:
-  extensions: [smart]
-permalink: /:title.html
-paginate: 5
-port: 4000
-safe: true
-url: http://biomadeira.github.io/vitae
-author: Fábio Madeira
-
-# edit this section with your information
-# biomadeira.github.io - all contents run on /vitae/
-# for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
-google_analytics: UA-69300817-1
-
+url: http://example.com
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
