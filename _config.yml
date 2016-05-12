@@ -1,6 +1,6 @@
 # main text of home
 name: Daniel Marcos
-bio: 'Daniel Marcos - Computer Science Student - Software Engineer'
+bio: 'Daniel Marcos - Software Engineer'
 
 # if it's an external image, update below for true
 external-image: false
@@ -35,8 +35,8 @@ linkedin: danielms215
 #spotify: myspotify
 github: danielms215
 #medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+#vimeo: myvimeo
+email: danielmarcos@gatech.edu
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -48,11 +48,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+#blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
