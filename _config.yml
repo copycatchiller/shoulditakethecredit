@@ -1,12 +1,12 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Daniel Marcos
+bio: 'Daniel Marcos - Computer Science Student - Software Engineer'
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://koppl.in/indigo
+url: http://danielms.me
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -25,16 +25,16 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# google: mygoogle
-# instagram: myinstagram
+facebook: danielms215
+# twitter: mytwitter
+google: mygoogle
+instagram: danielms215
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
+linkedin: danielms215
+#youtube: myyoutube
+#spotify: myspotify
+github: danielms215
+#medium: medium
 vimeo: myvimeo
 email: myemail@gmail.com
 
