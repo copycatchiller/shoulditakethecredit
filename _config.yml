@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
+title:            GT FAQ
 tagline:          'A Jekyll theme, with instant search'
-description:      'The popular <a href="http://hyde.getpoole.com/" target="_blank">Hyde theme</a> for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, now with instant-search capabilities. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a> and <a href="https://www.algolia.com/" target="_blank">Algolia</a>'
+description:      'Frequently Asked Questions about Georgia Tech'
 url:              http://shoulditakethecredit.com
 # baseurl:          /
 # Travis will install Bundler dependencies in ./vendor, so we need to exclude it
@@ -30,7 +30,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-    repo:         https://github.com/algolia/algoliasearch-jekyll-hyde
+    repo:         https://github.com/danielms215/shoulditakethecredit
 
 # Algolia
 gems:
