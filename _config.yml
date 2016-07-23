@@ -19,10 +19,6 @@ exclude:          [vendor]
 author:
   name:           'Algolia'
   url:            https://www.algolia.com/
-# Thanks to @mdo for the original theme
-# author:
-#   name:           'Mark Otto'
-#   url:            https://twitter.com/mdo
 
 paginate:         5
 
@@ -43,3 +39,5 @@ algolia:
   excluded_files:
     - 404.html
     - index.html
+
+future: true
