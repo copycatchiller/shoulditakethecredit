@@ -21,6 +21,7 @@ author:
   url:            https://www.algolia.com/
 
 paginate:         5
+paginate_path: "/faq/:num/"
 
 # Custom vars
 version:          2.1.0
