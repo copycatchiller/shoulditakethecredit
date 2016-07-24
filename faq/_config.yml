@@ -20,7 +20,7 @@ author:
   name:           'Algolia'
   url:            https://www.algolia.com/
 
-paginate:         5
+# paginate:         5
 destination: _site/faq
 paginate_path: "page/:num/"
 
