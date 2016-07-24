@@ -12,6 +12,7 @@ you do not need to manually collect your tags to a place.
 {% assign rawtags = "" %}
 {% for post in site.posts %}
     {% assign ttags = post.tags | join:'|' | append:'|' %}
+    <p>/</p>
     {% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
