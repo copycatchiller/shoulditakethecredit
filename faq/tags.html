@@ -12,7 +12,6 @@ The following part extracts all the tags from your posts and sort tags, so that 
 {% for post in site.posts %}
 	{% assign ttags = post.tags | join:'|' | append:'|' %}
 	{% assign rawtags = rawtags | append:ttags %}
-    {{ tag }}
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
 
