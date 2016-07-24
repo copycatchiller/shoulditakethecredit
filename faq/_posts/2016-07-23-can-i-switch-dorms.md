@@ -10,4 +10,7 @@ tags:
     - Dorms
 ---
 
-Yes--if you find someone who is willing to switch with you, you can swap rooms with them. The same goes for roommates. If housing screwed you over and you didn’t get your preferred roommate, you can try and switch. Your best bet is to post on the Facebook group.
+Yes--if you find someone who is willing to switch with you, you can swap rooms
+with them. The same goes for roommates. If housing screwed you over and you
+didn’t get your preferred roommate, you can try and switch. Your best bet is to
+post on the Facebook group.
