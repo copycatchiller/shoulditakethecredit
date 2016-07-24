@@ -8,7 +8,7 @@ relative_permalinks: false
 
 # Setup
 title:            GT FAQ
-tagline:          'A Jekyll theme, with instant search'
+tagline:          GT FAQ
 description:      'Frequently Asked Questions about Georgia Tech'
 url:              http://shoulditakethecredit.com/faq
 # baseurl:          /
