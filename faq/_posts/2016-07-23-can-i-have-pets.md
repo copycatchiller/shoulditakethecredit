@@ -7,7 +7,7 @@ author:
   last_name: Marcos
 
 tags:
-    - dorms
+    - Dorms
 ---
 
 You can only have fish in an aquarium up to 10 gallons. People who need service animals can have them after getting them authorized by the school.

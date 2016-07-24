@@ -7,7 +7,7 @@ author:
   last_name: Marcos
 
 tags:
-    - dorms
+    - Dorms
 ---
 
 For 2016 -- August 18 and August 19.

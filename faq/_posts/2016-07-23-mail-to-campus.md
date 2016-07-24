@@ -7,7 +7,7 @@ author:
   last_name: Marcos
 
 tags:
-    - dorms
+    - Dorms
 ---
 
 Yes! Once you start school, you can find your mailbox address in:

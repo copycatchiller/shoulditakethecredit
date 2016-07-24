@@ -7,7 +7,7 @@ author:
   last_name: Marcos
 
 tags:
-    - dorms
+    - Dorms
 ---
 
 As of 2016, the best dorms are Glenn and Towers. This is because they were
