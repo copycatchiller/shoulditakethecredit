@@ -11,7 +11,7 @@ title:            GT FAQ
 tagline:          GT FAQ
 description:      'Frequently Asked Questions about Georgia Tech'
 url:              http://shoulditakethecredit.com
-baseurl:          /
+baseurl:          /faq
 # Travis will install Bundler dependencies in ./vendor, so we need to exclude it
 # otherwise Jekyll will try to build it (and fail)
 exclude:          [vendor]
@@ -21,7 +21,7 @@ author:
   url:            https://www.algolia.com/
 
 paginate:         5
-paginate_path: "/faq/faq/page:num/"
+paginate_path: "/page:num/"
 
 # Custom vars
 version:          2.1.0
