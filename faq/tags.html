@@ -5,7 +5,8 @@ title: Browse Questions by Tag
 
 {% comment %}
 =======================
-The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
+The following part extracts all the tags from your posts and sort tags, so that
+you do not need to manually collect your tags to a place.
 =======================
 {% endcomment %}
 {% assign rawtags = "" %}
@@ -35,6 +36,15 @@ The following part removes dulpicated tags and invalid tags like blank tag.
 
 {% comment %}
 =======================
+The purpose of this snippet is to list all the tags you have in your site.
+=======================
+{% endcomment %}
+{% for tag in tags %}
+	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
+{% endfor %}
+
+{% comment %}
+=======================
 The purpose of this snippet is to list all your posts posted with a certain tag.
 =======================
 {% endcomment %}
@@ -49,7 +59,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
          {{ post.title }}
          </a>
          {% for tag in post.tags %}
-             <small><a class="tag" href="/faq/tags/#{{ tag | slugify }}">{{ tag }}</a></small>
+             <a class="tag tiny" href="/faq/tags/#{{ tag | slugify }}">{{ tag }}</a>
          {% endfor %}
          </h3>
          </li>
