@@ -10,7 +10,7 @@ relative_permalinks: false
 title:            GT FAQ
 tagline:          GT FAQ
 description:      'Frequently Asked Questions about Georgia Tech'
-url:              http://shoulditakethecredit.com
+url:              http://shoulditakethecredit.com/faq
 baseurl:          /faq
 # Travis will install Bundler dependencies in ./vendor, so we need to exclude it
 # otherwise Jekyll will try to build it (and fail)
