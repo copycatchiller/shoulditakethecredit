@@ -9,11 +9,10 @@ title: Home
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
-        {{ post.tags }}
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-date">{{ post.date | date_to_string }} {{post.tags}}</span>
 
     {{ post.content }}
   </div>
