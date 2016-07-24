@@ -11,6 +11,7 @@ title:            GT FAQ
 tagline:          'A Jekyll theme, with instant search'
 description:      'Frequently Asked Questions about Georgia Tech'
 url:              http://shoulditakethecredit.com/
+destination:      _site/faq
 # baseurl:          /
 # Travis will install Bundler dependencies in ./vendor, so we need to exclude it
 # otherwise Jekyll will try to build it (and fail)
