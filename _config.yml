@@ -37,8 +37,17 @@ algolia:
   application_id: 'XQV74F7Q62'
   index_name: 'gt_faq'
   read_only_api_key: '372379fb2611be972aa78fd1f72e3846'
+
   excluded_files:
     - 404.html
     - index.html
+  attributesToIndex:
+    - title
+    - h1
+    - h2
+    - h3
+    - h4
+    - h5
+    - h6
 
 future: true
