@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+permalink: /faq/:title
 relative_permalinks: false
 
 # Setup
