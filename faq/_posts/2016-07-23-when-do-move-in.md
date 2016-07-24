@@ -11,4 +11,5 @@ tags:
 ---
 
 For 2016 -- August 18 and August 19.
-Dates are updated every year [here.](https://housing.gatech.edu/Pages/Calendar.aspx)
+Dates are updated every year
+[here.](https://housing.gatech.edu/Pages/Calendar.aspx)
