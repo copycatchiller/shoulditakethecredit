@@ -22,7 +22,7 @@ author:
 
 paginate:         5
 destination: _site/faq
-paginate_path: "faq/page:num/"
+paginate_path: "page/:num/"
 
 # Custom vars
 version:          2.1.0
