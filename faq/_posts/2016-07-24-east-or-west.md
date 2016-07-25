@@ -10,7 +10,8 @@ tags:
     - Dorms
 ---
 
-!!! East
+East
+----
 
 + Generally considered the more “social/party” side.
 + Closer to Greek houses (fraternities and sororities).
@@ -18,7 +19,8 @@ tags:
 + Small gym in the Glenn/Towers connector (only treadmills and bikes).
 + Closer to Tech Square, Midtown Atlanta, MARTA stations.
 
-!!! West
+West
+----
 
 + Generally considered the more “quiet” side.
 + Nicer dorms with more spacious rooms.
