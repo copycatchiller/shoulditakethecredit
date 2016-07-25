@@ -27,7 +27,7 @@ author:
 version:          2.1.0
 
 github:
-    repo:         https://github.com/danielms215/shoulditakethecredit
+    repo:         https://github.com/danielms215/shoulditakethecredit/tree/gh-pages
 
 # Algolia
 gems:
