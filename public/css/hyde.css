@@ -56,8 +56,8 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(238,178,17,.8);
-  background-color: #335170;
+  background-color: rgba(238,178,17,.8);
+  color: #335170;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -222,9 +222,9 @@ a.sidebar-nav-item:focus {
   color: #75b5aa;
 }
 
-/* Blue */
+/* Old Gold */
 .theme-base-0d .sidebar {
-  background-color: #335170;
+  background-color: rgba(238,178,17,.8);
 }
 .theme-base-0d .content a,
 .theme-base-0d .related-posts li a:hover {
