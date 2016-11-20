@@ -22,9 +22,13 @@ These are some of my favorite date restaurants close to campus:
 
 
 
+
+
 **Cafe Intermezzo**
 
 Coffeehouse and restaurant in Midtown.  
+
+
 
 
 
@@ -34,15 +38,21 @@ Cozy, casual place close to West Campus.
 
 
 
+
+
 **Mary Mac's**
 
 Southern comfort food.  
 
 
 
+
+
 **Sean's Harvest Market**
 
 Get some food to go and find a quiet spot to sit on Piedmont Park.  
+
+
 
 
 
