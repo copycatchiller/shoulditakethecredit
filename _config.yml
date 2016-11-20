@@ -43,6 +43,9 @@ algolia:
     - index.html
   attributesToIndex:
     - title
+    - li
+    - ol
+    - ul
     - h1
     - h2
     - h3
