@@ -14,7 +14,7 @@ tags:
 
 These are some of my favorite date restaurants close to campus:
 
-
+<br>
 
 ~~**North Avenue Dining Hall**~~
 
