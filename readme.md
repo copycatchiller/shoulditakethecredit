@@ -3,10 +3,10 @@ Should I Take The Credit
 
 An FAQ and resources website for incoming Georgia Tech students, managed by GT
 students, faculty, and anyone else who wants to help. Consider this a
-lightwieght, unofficial wiki, hosted on github, curated via pull request.
+lightweight unofficial wiki, hosted on github, and curated via pull request.
 
 ### Contributing
-If you use Unix, I assume you know git. Clone this repository, make a
+If you use Unix, we assume you know git. Clone this repository, make a
 branch, make your changes, and submit a pull request.
 
 If you use windows, [download github for windows][1], and create a github
@@ -20,6 +20,9 @@ posts are formatted in markdown with a special yaml "frontmatter". For the most
 part, the format is very straightforward, please reach out to a maintainer if
 you have any questions. We welcome contributions.
 
+If what we just said makes no sense to you, you can contribute by submitting your contribution [here][3] and adding the "contribution" label.
+
 
 [1]: https://desktop.github.com/
 [2]: https://jekyllrb.com/
+[3]: https://github.com/danielms215/shoulditakethecredit/issues/new
