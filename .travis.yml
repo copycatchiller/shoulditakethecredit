@@ -1,0 +1,12 @@
+language: ruby
+cache: bundler
+branches:
+  only:
+    - gh-pages
+script:
+  - bundle exec jekyll algolia push
+rvm:
+  - 2.2
+
+env:
+  - ALGOLIA_API_KEY=
