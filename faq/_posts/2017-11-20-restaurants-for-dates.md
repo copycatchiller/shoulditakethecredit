@@ -20,7 +20,7 @@ These are some of my favorite date restaurants close to campus:
 
 ~~Excellent first date spot. Second date or your money back.~~  
 
-
+<br>
 
 
 
@@ -28,7 +28,7 @@ These are some of my favorite date restaurants close to campus:
 
 Coffeehouse and restaurant in Midtown.  
 
-
+<br>
 
 
 
@@ -36,7 +36,7 @@ Coffeehouse and restaurant in Midtown.
 
 Cozy, casual place close to West Campus.  
 
-
+<br>
 
 
 
@@ -44,7 +44,7 @@ Cozy, casual place close to West Campus.
 
 Southern comfort food.  
 
-
+<br>
 
 
 
@@ -52,7 +52,7 @@ Southern comfort food.
 
 Get some food to go and find a quiet spot to sit on Piedmont Park.  
 
-
+<br>
 
 
 
@@ -60,35 +60,4 @@ Get some food to go and find a quiet spot to sit on Piedmont Park.
 
 A little more expensive than the rest but the food is really good and it has a fun atmosphere.  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
