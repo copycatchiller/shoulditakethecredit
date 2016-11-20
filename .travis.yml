@@ -9,4 +9,4 @@ rvm:
   - 2.2
 
 env:
-  - ALGOLIA_API_KEY=
+  - ALGOLIA_API_KEY=4ce1c6b4d19e9cb650e2a7cd09d3672a
