@@ -41,16 +41,5 @@ algolia:
   excluded_files:
     - 404.html
     - index.html
-  attributesToIndex:
-    - title
-    - li
-    - ol
-    - ul
-    - h1
-    - h2
-    - h3
-    - h4
-    - h5
-    - h6
 
 future: true
