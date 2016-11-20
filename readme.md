@@ -5,8 +5,8 @@ An FAQ and resources website for incoming Georgia Tech students, managed by GT
 students, faculty, and anyone else who wants to help. Consider this a
 lightwieght, unofficial wiki, hosted on github, curated via pull request.
 
-****Contributing
-If you use unix, I assume you know git. So clone this repository, make a
+### Contributing
+If you use Unix, I assume you know git. Clone this repository, make a
 branch, make your changes, and submit a pull request.
 
 If you use windows, [download github for windows][1], and create a github
