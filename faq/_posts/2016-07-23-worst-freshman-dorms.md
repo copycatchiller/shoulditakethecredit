@@ -2,9 +2,6 @@
 layout: post
 title: Which freshman dorms should I try to avoid?
 author:
-  display_name: Daniel
-  first_name: Daniel
-  last_name: Marcos
 
 tags:
     - Dorms
