@@ -30,7 +30,3 @@ West
 + Closer to restaurants like Wingzone, Rocky Mountain Pizza, etc.
 
 I usually advise freshmen to try and live on East. I’ve heard many times “I wish I’d lived on East my first year.” I’ve never heard the opposite. Both sides have pros and cons, and it depends on what your priorities are.
-
-
-
-Test to get it to reindex this file.
