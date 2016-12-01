@@ -15,6 +15,8 @@ All freshmen in the Freshman Experience are required to buy the Freshman Flex me
 
 Dining dollars can be spent on food at the Student Center, Starbucks, CRC Smoothies, Highland Bakery, Wingzone, WestSide Market, and Tech Green food trucks. They can also be used to pay for a meal swipe for someone without an unlimited meal plan.
 
+Dining Dollar Bonus Account monies are dining dollars that are received when purchasing dining dollars in $400 or $600 increments. They cannot be used at certain dining locations, including Wingzone and Tech Green food trucks. 
+
 Buzzfunds are Tech's form of digital currency. In addition to being useful for
 every way dining dollars can be used, they are the only way to pay for
 laundry, and can be used at a number of places around campus, including the
@@ -22,4 +24,4 @@ vending machines, Barnes and Noble, and various other campus institutions.
 I rarely use my credit card or cash on campus, and
 opt to instead only use Buzzfunds and Dining Dollars.
 
-While dining dollars expire at the end of the Spring Semester, Buzzfunds alway roll over to the next semester.
+While dining dollars expire at the end of every Spring Semester, Buzzfunds always roll over to the next semester.
