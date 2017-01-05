@@ -17,13 +17,13 @@ tags:
 
 ###Student Center
  - First Floor
-  - Subway - Sub Sandwiches
-  - Taco Bell - 10 cent tacos
+  - Subway
+  - Taco Bell
   - Chik-Fil-A - Georgia tradition
   - Blue Donkey Coffee - iced coffee
-  - Panda Express - When you want tang
+  - Panda Express - When you want something asian
  - Second Floor
-  - Zaya - greek (gyro), decent
+  - Zaya - greek (gyro), decent (now a different name)
   - Cafe Spice - Indian
   - Twisted Taco - guess
   - Ray’s Pizza - local italian restaraunt
@@ -31,34 +31,34 @@ tags:
   - Dunkin Donuts - coffee and donuts
   
 ###Tech Square
- - Tin Drum - Asian food, meh
+ - Tin Drum - okay asian food
  - Moes - burritos
  - Gyro Bros - greek, I prefer Zaya
  - Ray’s Pizza - Main location, italian and mediterranean fare, good
  - Starbucks
- - Yoforia - foryo
- - Umma’s - Asian and less-than-decent boba tea
- - Barrelhouse - American/bar/gastropub. Good for the price. Monthly burgers
+ - Yoforia - froyo
+ - Umma’s - Asian and boba tea
+ - Barrelhouse - American/bar/gastropub. Has gone down hill recently. Monthly burgers
  - Waffle House - A staple, open 24/7 and during various catastrophes
 
 ###Elsewhere on Campus
- - Wingzone (West Campus)
+ - Wingzone (West Campus) - wings, great if you're drunk, less-than-okay otherwise
  - Starbucks (CULC)
  - Quad Cafe (Biotech Quad)
  - Highland Bakery (old campus)
 
 ###West Campus (Walking Distance)
- - Firehouse - Higher quality subs than Quiznos
+ - Firehouse - Higher quality subs than, say, a Quiznos
  - Sublime Donuts - Delicious and artisanal donuts (at a price) (open 24/7)
- - Anticos - good, classic pizza
- - Rocky Mountain Pizza - good bar and creative pizzas
+ - Anticos - good, classic, thin crust pizza (kinda expensive)
+ - Rocky Mountain Pizza - good bar and creative pizzas, dencent price
  - Amelie’s - coffee and french bakery/sweets
  - Figo - pasta chain
  - Wingnuts - ...ungh wings
  - Lucky Buddah - Don’t go here, ever, nope. Bad. Stop.
  - Tech Taco - Owned by the same people as the above, kinda like moes
  - Le Fat - upscale vietnamese, pricey
- - Urban Grind - coffee
+ - Urban Grind - coffee and tea
  - Raku Ramen - delicious ramen restaraunt
  - Delia’s Chicken Sausage Stand - great chicken sausage, open 24/7 on weekends
  - Octane - coffee
@@ -71,13 +71,13 @@ tags:
  - La Fonda - latin food with a cuban push, good cubans and good paella
 
 ###Atlantic Station
- - Which Which - 
- - Tin Drum - 
+ - Which Which - like subway, but a bit more expensive and more options
+ - Tin Drum - asian
  - Moes - 
- - CPK - creative pizza
+ - California Pizza Kitchen - creative pizza
  - Rosa Mexicana
- - Kilwins - local sweets, icecream pretzels, caramel apples, etc.
- - Strip
+ - Kilwins - local sweets, icecream, pretzels, caramel apples, etc.
+ - Strip - steakhouse
  - Yardhouse
  - Meehan’s - irish pub
  - BGR
@@ -86,23 +86,25 @@ tags:
  - Greak American Cookie
 
 ###Westside Provisions District
- - Jeni’s Icecream - really high quality ice cream
+ - Jeni’s Icecream - really high quality ice cream, monthly/seasonal flavors
  - Yeah Burger - artisanal burgers
- - West Egg Cafe - breakfast food
- - Taqueria Del Sol - tacos, always enormous lines, and for good reason
- - Bacchanalia - One of Atlanta’s best restaurants, ~$80 a person, feet from Jeni’s icecream
- - Star Provisions - Cafeteria and deli, quality food (essentially shares a kitchen with Bacchanalia)
+ - West Egg Cafe - breakfast food, only open for breakfast and lunch
+ - Taqueria Del Sol - tacos, always enormous lines, and for good reason, the food is great
+ - Bacchanalia - One of Atlanta’s nicest restaurants, but outside the budget of most students, the kind of place your parents would go for their 10th anniversary.
+ - Star Provisions - Cafeteria and deli, quality food (essentially shares a kitchen with Bacchanalia), only open for breakfast and lunch
  
 ###Towards Midtown
  - Takorea - korean tacos, great food, try the fries
  - Sweet Hut - best local boba tea and asian bakery
- - Cypress Street - bar, with good american fare and great burgers
+ - Cypress Street - bar, with good american fare and great burgers, monthly burgers
  - Vortex (21+) - look it up
  - Senor Petron - 
  - Eats
  - Dancing Goats Coffee - super chill coffee place
  - Mary Mac’s Tea Room - an atlanta tradition or something, my parents ate here when they were students
  - Papi’s
+ - Ponce City Market
+   - Number of restaraunts in the location
  
 ###Elsewhere
  - Honey Bubble
