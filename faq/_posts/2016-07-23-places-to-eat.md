@@ -69,6 +69,7 @@ tags:
  - Moes Barbecue - good meat and 3 barbecue chain
  - Wagaya - Really good ramen and japanese place
  - La Fonda - latin food with a cuban push, good cubans and good paella
+ - Bartaco - latin/asian fusion, kind of. Street tacos and generally good food at a decent price, although it runs more than the fast food locations.
 
 ###Atlantic Station
  - Which Which - like subway, but a bit more expensive and more options
