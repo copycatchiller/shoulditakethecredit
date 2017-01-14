@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What are the best places to eat out on a date?
+title: What are the best places to eat on a date?
 author:
   display_name: Daniel
   first_name: Daniel
