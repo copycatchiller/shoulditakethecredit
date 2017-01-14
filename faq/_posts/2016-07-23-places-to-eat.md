@@ -11,11 +11,13 @@ tags:
 ---
 
 ###Dining Halls
+
  - North Ave - East campus
  - Brittain - East campus
  - Woodruff - West campus
 
 ###Student Center
+
  - First Floor
   - Subway
   - Taco Bell
@@ -31,6 +33,7 @@ tags:
   - Dunkin Donuts - coffee and donuts
   
 ###Tech Square
+
  - Tin Drum - okay asian food
  - Moes - burritos
  - Gyro Bros - greek, I prefer Zaya
@@ -42,12 +45,14 @@ tags:
  - Waffle House - A staple, open 24/7 and during various catastrophes
 
 ###Elsewhere on Campus
+
  - Wingzone (West Campus) - wings, great if you're drunk, less-than-okay otherwise
  - Starbucks (CULC)
  - Quad Cafe (Biotech Quad)
  - Highland Bakery (old campus)
 
 ###West Campus (Walking Distance)
+
  - Firehouse - Higher quality subs than, say, a Quiznos
  - Sublime Donuts - Delicious and artisanal donuts (at a price) (open 24/7)
  - Anticos - good, classic, thin crust pizza (kinda expensive)
@@ -72,6 +77,7 @@ tags:
  - Bartaco - latin/asian fusion, kind of. Street tacos and generally good food at a decent price, although it runs more than the fast food locations.
 
 ###Atlantic Station
+
  - Which Which - like subway, but a bit more expensive and more options
  - Tin Drum - asian
  - Moes - 
@@ -87,6 +93,7 @@ tags:
  - Greak American Cookie
 
 ###Westside Provisions District
+
  - Jeni’s Icecream - really high quality ice cream, monthly/seasonal flavors
  - Yeah Burger - artisanal burgers
  - West Egg Cafe - breakfast food, only open for breakfast and lunch
@@ -95,6 +102,7 @@ tags:
  - Star Provisions - Cafeteria and deli, quality food (essentially shares a kitchen with Bacchanalia), only open for breakfast and lunch
  
 ###Towards Midtown
+
  - Takorea - korean tacos, great food, try the fries
  - Sweet Hut - best local boba tea and asian bakery
  - Cypress Street - bar, with good american fare and great burgers, monthly burgers
@@ -108,6 +116,7 @@ tags:
    - Number of restaraunts in the location
  
 ###Elsewhere
+
  - Honey Bubble
  - Chao Baby
  - Fogo de Chao
