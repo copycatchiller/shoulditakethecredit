@@ -5,7 +5,7 @@ tags:
     - Dorms
 ---
 
-The East/West campus divide is a notable part of the Freshman experience because friend groups often form in frequented cafeterias, which are found on each side of campus. The two sides of campus are about one mile apart, so going across campus for socializing can be difficult. While I, living on East, could nearly always find friends to sit with when walking into an East Campus dining hall, I usually only recognized a couple kids I had never talked to when I have gone to Woodies alone. All of the 2-bed Freshman dorms are about the same size, although some of the ‘nicer’ dorms are a couple dozen square feet larger. Even if you end up not being able to choose which side of campus you live on, this list tell you what you’re getting into.
+The East/West campus divide is a notable part of the Freshman experience because dorms and dining halls is where you will probably make your first friends. (The two sides of campus are about one mile apart, so going across campus for socializing can be difficult.) While I, living on East, could nearly always find friends to sit with when walking into an East Campus dining hall, I usually only recognized a couple kids I had never talked to when I have gone to Woodies alone. All of the 2-bed Freshman dorms are about the same size, although some of the ‘nicer’ dorms are a couple dozen square feet larger. Even if you end up not being able to choose which side of campus you live on, this list tell you what you’re getting into.
 
 
 East
