@@ -10,13 +10,13 @@ tags:
     - Food
 ---
 
-###Dining Halls
+### Dining Halls
 
  - North Ave - East campus
  - Brittain - East campus
  - Woodruff - West campus
 
-###Student Center
+### Student Center
 
  - First Floor
   - Subway
@@ -32,7 +32,7 @@ tags:
   - Simply Eats
   - Dunkin Donuts - coffee and donuts
   
-###Tech Square
+### Tech Square
 
  - Tin Drum - okay asian food
  - Moes - burritos
@@ -44,14 +44,14 @@ tags:
  - Barrelhouse - American/bar/gastropub. Has gone down hill recently. Monthly burgers
  - Waffle House - A staple, open 24/7 and during various catastrophes
 
-###Elsewhere on Campus
+### Elsewhere on Campus
 
  - Wingzone (West Campus) - wings, great if you're drunk, less-than-okay otherwise
  - Starbucks (CULC)
  - Quad Cafe (Biotech Quad)
  - Highland Bakery (old campus)
 
-###West Campus (Walking Distance)
+### West Campus (Walking Distance)
 
  - Firehouse - Higher quality subs than, say, a Quiznos
  - Sublime Donuts - Delicious and artisanal donuts (at a price) (open 24/7)
@@ -76,7 +76,7 @@ tags:
  - La Fonda - latin food with a cuban push, good cubans and good paella
  - Bartaco - latin/asian fusion, kind of. Street tacos and generally good food at a decent price, although it runs more than the fast food locations.
 
-###Atlantic Station
+### Atlantic Station
 
  - Which Which - like subway, but a bit more expensive and more options
  - Tin Drum - asian
@@ -92,7 +92,7 @@ tags:
  - Chick-a-Biddy
  - Greak American Cookie
 
-###Westside Provisions District
+### Westside Provisions District
 
  - Jeni’s Icecream - really high quality ice cream, monthly/seasonal flavors
  - Yeah Burger - artisanal burgers
@@ -101,7 +101,7 @@ tags:
  - Bacchanalia - One of Atlanta’s nicest restaurants, but outside the budget of most students, the kind of place your parents would go for their 10th anniversary.
  - Star Provisions - Cafeteria and deli, quality food (essentially shares a kitchen with Bacchanalia), only open for breakfast and lunch
  
-###Towards Midtown
+### Towards Midtown
 
  - Takorea - korean tacos, great food, try the fries
  - Sweet Hut - best local boba tea and asian bakery
@@ -115,7 +115,7 @@ tags:
  - Ponce City Market
    - Number of restaraunts in the location
  
-###Elsewhere
+### Elsewhere
 
  - Honey Bubble
  - Chao Baby
