@@ -24,4 +24,4 @@ vending machines, Barnes and Noble, and various other campus institutions.
 I rarely use my credit card or cash on campus, and
 opt to instead only use Buzzfunds and Dining Dollars.
 
-While dining dollars expire at the end of every Spring Semester, Buzzfunds always roll over to the next semester.
+Buzzfunds always roll over to the next semester, but Dining Dollars will roll over from the fall semester to spring semester and expire at the end of every spring semester.

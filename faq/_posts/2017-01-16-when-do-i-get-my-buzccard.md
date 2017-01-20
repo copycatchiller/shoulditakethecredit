@@ -6,4 +6,4 @@ tags:
     - Buzzcard
 ---
 
-You'll get your Buzzcard on the first day of FASET, on the second floor of Barnes and Noble on Tech Square.
+You'll get your Buzzcard on the second day of FASET, on the second floor of Barnes and Noble on Tech Square.
