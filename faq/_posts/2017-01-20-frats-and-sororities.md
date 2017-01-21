@@ -22,7 +22,7 @@ also maintains a list of social fraternities and sororities.
 
 There's a lot of selective organizations with Greek letters at most colleges,
 and Georgia Tech is no exception! There's 4 types of organizations I am
-referring to here: social fraternities/sororities, social
+referring to here: social fraternities/sororities, service
 fraternities/sororities, professional fraternities, and honors societies.
 The social ones that are managed by the Office of Greek Affairs, and the rest
 are basically clubs. I'll go over non-social Greek lettered orgs first, then
@@ -48,25 +48,25 @@ fraternities + 3 sororities), and National Pan-Hellenic Council (NPHC)
 (4 historically black fraternities + 4 sororities).
 
 Interfraternity Council fraternities are what people think of when one mentions
-frats. Despite their often large houses, Tech's frats are typically small to
-mid-sized. Most of the IFC frats have on-campus houses, although I know Sigma Pi
+fraternities. Despite their often large houses, Tech's fraternities are typically small to
+mid-sized. Most of the IFC fraternities have on-campus houses, although I know Sigma Pi
 and Phi Kappa Sigma have off-campus housing and Triangle does not have a house.
 Many students enjoy living with their friends in fraternity housing, which tends
 to be very cheap and fun. Many fraternities have 2/day, 5/week meal plans with
 meals cooked in the larger houses' industrial kitchens typically by a
 professional chef - students report choosing to be on a meal plan is "super
-worth" and "so much better than dining hall food." Although Tech's frats
+worth" and "so much better than dining hall food." Although Tech's fraternities
 tend to be much more mellow and academic than a typical public school's, they
 vary widely in cultures. Many of the smaller ones are super chill or unexciting,
 depending on your perspective; some of them are more focused on
 athleticism, gaming, or parties. To widely varying extents, all participate in
 community service, leadership on campus, athletic competitions, social
 activities, and alumni interactions. The majority of IFC brothers are white and
-more wealthy than average, but some frats are more diverse than others. It's
+more wealthy than average, but some fraternities are more diverse than others. It's
 also notable that Psi Upsilon is co-ed.
 
 Fraternities tend to have dues of around a thousand dollars a semester, or more
-for frats that do more. A little of that always goes to the school, some goes
+for fraternities that do more. A little of that always goes to the school, some goes
 to the national fraternities since the alumni connections are important, some
 goes towards house maintenance, and a lot goes to all of the activities that
 brothers participate in. Fraternities have all kinds of events such as nights
@@ -104,7 +104,7 @@ Omega Epsilon, a sorority that both professional and social and requires its
 members to be science or engineering majors. All of the sororities are very
 large except for Kappa Alpha Theta, which is very new. Although the houses have
 low sister to room ratios so that only upperclassmen can usually get housing,
-the sororities do not throw parties at the houses like frats do, so that's nice.
+the sororities do not throw parties at the houses like fraternities do, so that's nice.
 
 I know CPC rush involves 3 days and a night of rushing sororities. Instead of
 going frat to frat at will like in IFC, rush is highly structured, involving
