@@ -107,7 +107,7 @@ low sister to room ratios so that only upperclassmen can usually get housing,
 the sororities do not throw parties at the houses like fraternities do, so that's nice.
 
 I know CPC rush involves 3 days and a night of rushing sororities. Instead of
-going frat to frat at will like in IFC, rush is highly structured, involving
+going fraternity to fraternity at will like in IFC, rush is highly structured, involving
 recommendation letters, and going between sororities as a group. Only about
 half of the rushees that have spent $80 - $90 to participate typically get bids.
 Pledging/initiation tends to be less involved than the fraternities'.
