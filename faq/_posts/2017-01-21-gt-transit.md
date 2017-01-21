@@ -3,7 +3,7 @@ layout: post
 title: How does Georgia Tech transit work?
 
 tags:
-    - Dorms
+    - Transportation
 ---
 
 [Parking & Transportation Service's website has all the info on this.](https://pts.gatech.edu/transit)

@@ -3,7 +3,7 @@ layout: post
 title: Should I bring a car?
 
 tags:
-    - Dorms
+    - Transportation
 ---
 
 Freshmen are allowed to bring cars to campus. A parking pass for the year is
