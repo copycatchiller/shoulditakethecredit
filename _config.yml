@@ -37,6 +37,7 @@ algolia:
   application_id: 'GCD31PUTJI'
   index_name: 'gt_faq_index'
   read_only_api_key: '40a10525065cdd8c4e4d6834a29e4338'
+  record_css_selector: 'p,ul'
 
   excluded_files:
     - 404.html
