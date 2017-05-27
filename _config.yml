@@ -26,6 +26,10 @@ author:
 # Custom vars
 version:          2.1.0
 
+collections:
+    faq:
+        output: true
+
 github:
     repo:         https://github.com/danielms215/shoulditakethecredit/tree/gh-pages
 
